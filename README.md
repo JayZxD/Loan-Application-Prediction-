@@ -95,5 +95,4 @@ Some methods and techniques in these notebooks were adapted from academic course
 [Jay Mayekar](https://www.linkedin.com/in/jay-mayekar25/)
 
 🤝 Contributors
-[Arya Patil](https://www.linkedin.com/in/aryapatil/)
-[Rohan Nagansur](https://www.linkedin.com/in/rohannagansur/)
+[Arya Patil](https://www.linkedin.com/in/aryapatil/), [Rohan Nagansur](https://www.linkedin.com/in/rohannagansur/)
