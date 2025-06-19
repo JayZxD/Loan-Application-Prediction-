@@ -3,6 +3,7 @@
 This repository contains two Jupyter notebooks focused on predicting the approval status of loan applications. The workflow is divided into two phases: data preprocessing and exploration, and model training and evaluation. This project demonstrates a complete data science pipeline from raw data to predictive modeling.
 
 ---
+## 📊 Data Source
 
 ## 📘 About the Notebooks
 
